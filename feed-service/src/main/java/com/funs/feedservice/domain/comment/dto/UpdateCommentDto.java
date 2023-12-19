@@ -1,0 +1,12 @@
+package com.funs.feedservice.domain.comment.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class UpdateCommentDto {
+    private String content; //댓글 내용
+}

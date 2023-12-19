@@ -1,0 +1,10 @@
+rootProject.name = 'FunSNS'
+include 'apigateway-service'
+include 'discovery-service'
+include 'gifticon-service'
+include 'point-service'
+include 'user-service'
+include 'notification-service'
+include 'feed-service'
+include 'follow-service'
+

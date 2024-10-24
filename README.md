@@ -6,6 +6,10 @@ SNS형 크라우드 펀딩 서비스입니다.
 사용 기술
 <img width="1085" alt="image" src="https://github.com/user-attachments/assets/01f123de-9c70-4d08-a169-952dc638dd65">
 
+ERD
+![Copy of 손이바빠 ERD (3) (1)](https://github.com/user-attachments/assets/337c9fbf-59f3-4f1f-bd5c-84b039b85436)
+
+
 FunS의 시스템 디자인
 ![image](https://github.com/user-attachments/assets/bbce1423-52ce-42a8-9ab0-dc049cbba8d7)
 
